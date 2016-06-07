@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:54.246929
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:31
 #+TITLE: 伽耶山頂經
 #+PROPERTY: CBETA_ID T14n0465
 #+PROPERTY: ID KR6i0066
