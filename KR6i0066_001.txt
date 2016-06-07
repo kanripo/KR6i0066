@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:54.246929
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:31
 #+TITLE: 伽耶山頂經
 #+PROPERTY: CBETA_ID T14n0465
 #+PROPERTY: ID KR6i0066
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 465
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0066_T_000-0483c>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0066_T_001-0483c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.465[Nos.464,466,467]¶
-
- 伽耶山頂經¶
+No. 465 [Nos. 464, 466, 467]¶
+伽耶山頂經¶
 ¶
 元魏天竺三藏菩提流支譯¶
 
@@ -355,8 +354,7 @@ No.465[Nos.464,466,467]¶
 
 「復次，善男子！諸¶
 菩薩摩訶薩有十一種無盡觀？何等為十¶
-一？一者、身無盡觀；二者、事無盡觀；三者、煩¶
-惱無盡觀；四者、法無盡觀；五者、愛無盡觀；六¶
+一？一者、身無盡觀；二者、事無盡觀；三者、煩惱無盡觀；四者、法無盡觀；五者、愛無盡觀；六¶
 者、見無盡觀；七者、助道無盡觀；八者、取無盡¶
 觀；九者、不著無盡觀；十者、相應無盡觀；十一¶
 者、道場智性無盡觀。善男子！是名諸菩薩摩¶
